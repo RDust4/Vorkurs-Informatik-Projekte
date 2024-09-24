@@ -1,0 +1,7 @@
+The tunnel begins to slope downward, leading you to a vast underground cavern filled with glowing crystals.
+
+(1) Examine the glowing crystals.  
+(2) Search the cavern for an exit.
+---
+glowing_crystals.txt  
+cavern_exit_search.txt

@@ -1,0 +1,7 @@
+The crystals hum with an unnatural energy. As you touch one, it shatters, and the cavern begins to collapse.
+
+(1) Run back to the tunnel entrance.  
+(2) Dive deeper into the cavern to find a safe spot.
+---
+tunnel_collapse_escape.txt  
+cavern_deeper_escape.txt

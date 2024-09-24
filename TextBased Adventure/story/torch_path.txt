@@ -1,0 +1,7 @@
+With the torch in hand, you can now see further down the tunnel. You come across a wooden door slightly ajar.
+
+(1) Open the door and enter.  
+(2) Keep walking past the door, deeper into the tunnel.
+---
+wooden_door_room.txt  
+deeper_tunnel.txt

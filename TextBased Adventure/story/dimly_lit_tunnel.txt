@@ -1,0 +1,7 @@
+The tunnel is narrow, with faint light flickering from some unknown source ahead. You notice an old torch on the wall.
+
+(1) Take the torch and continue forward.  
+(2) Ignore the torch and proceed quietly.
+---
+torch_path.txt  
+quiet_path.txt

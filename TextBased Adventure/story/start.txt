@@ -1,0 +1,10 @@
+Welcome to my textbased adventure with the greatest story ever!
+Let's start...
+
+You find yourself in a mysterious cave. Two tunnels lie before you. One is dimly lit, while the other is completely dark.
+
+(1) Enter the dimly lit tunnel.  
+(2) Enter the dark tunnel.
+---
+dimly_lit_tunnel.txt  
+dark_tunnel.txt

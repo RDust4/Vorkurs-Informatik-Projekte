@@ -1,0 +1,7 @@
+The room beyond the door is lined with ancient books and strange symbols. A large book lies open on a pedestal.
+
+(1) Read the book on the pedestal.  
+(2) Leave the room quietly.
+---
+cursed_book.txt  
+deeper_tunnel.txt

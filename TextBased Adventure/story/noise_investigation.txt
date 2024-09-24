@@ -1,0 +1,7 @@
+You find a broken piece of wood and some strange tracks on the ground. A shadowy figure looms nearby.
+
+(1) Confront the shadowy figure.  
+(2) Run away from the shadow.
+---
+shadowy_confrontation.txt  
+deeper_tunnel.txt

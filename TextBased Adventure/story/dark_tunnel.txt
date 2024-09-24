@@ -1,0 +1,7 @@
+The tunnel is pitch black, and the air feels heavy. As you step further in, you hear a faint whisper.
+
+(1) Follow the whisper deeper into the darkness.  
+(2) Turn back to the cave entrance.
+---
+whisper_path.txt  
+start.txt

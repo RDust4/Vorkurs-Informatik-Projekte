@@ -1,0 +1,7 @@
+You quietly move forward, but without the torch, you stumble over something. A loud noise echoes through the cave.
+
+(1) Investigate the source of the noise.  
+(2) Hurry away from the noise, deeper into the tunnel.
+---
+noise_investigation.txt  
+deeper_tunnel.txt

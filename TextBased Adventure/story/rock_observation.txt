@@ -1,0 +1,5 @@
+From behind the rock, you watch the glowing figure fade away into the darkness. The room becomes eerily quiet.
+
+(1) Leave the chamber and return to the dark tunnel.
+---
+dark_tunnel.txt

@@ -1,0 +1,7 @@
+You follow the whisper and find yourself in a small, cold chamber. A glowing figure stands in the center.
+
+(1) Approach the glowing figure.  
+(2) Hide behind a rock and observe.
+---
+glowing_figure.txt  
+rock_observation.txt
